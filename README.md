@@ -20,3 +20,5 @@
 
 ## Real-time Updates
 - **Socket.IO**: Setup for real-time event notifications
+## Useful Links
+- **Python install for mac**: https://mac.install.guide/python/install-rye
